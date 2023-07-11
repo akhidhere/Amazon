@@ -1,0 +1,8 @@
+C:\Users\AKHILESH\source\repos\Encap001\Encap001\bin\Debug\Encap001.exe.config
+C:\Users\AKHILESH\source\repos\Encap001\Encap001\bin\Debug\Encap001.exe
+C:\Users\AKHILESH\source\repos\Encap001\Encap001\bin\Debug\Encap001.pdb
+C:\Users\AKHILESH\source\repos\Encap001\Encap001\obj\Debug\Encap001.csproj.AssemblyReference.cache
+C:\Users\AKHILESH\source\repos\Encap001\Encap001\obj\Debug\Encap001.csproj.SuggestedBindingRedirects.cache
+C:\Users\AKHILESH\source\repos\Encap001\Encap001\obj\Debug\Encap001.csproj.CoreCompileInputs.cache
+C:\Users\AKHILESH\source\repos\Encap001\Encap001\obj\Debug\Encap001.exe
+C:\Users\AKHILESH\source\repos\Encap001\Encap001\obj\Debug\Encap001.pdb
